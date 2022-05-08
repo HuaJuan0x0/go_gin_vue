@@ -1,0 +1,11 @@
+{
+  "database": {
+    "type": "mysql",
+    "user": "root",
+    "password": "on_ice",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "name": "ginessential",
+    "tablePrefix": ""
+  }
+}
